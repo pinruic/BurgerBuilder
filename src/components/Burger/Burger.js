@@ -26,7 +26,7 @@ const burger = (props) => {
 
     console.log(transformedIngredients);
     */
-    console.log(props);
+    //console.log(props);
     let transformedIngredients = [];
     //console.log(props.ingredients);
     for (let key in props.ingredients) {
